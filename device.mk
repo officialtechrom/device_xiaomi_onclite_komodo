@@ -192,6 +192,10 @@ PRODUCT_PACKAGES += \
     android.hardware.gnss@2.1.vendor \
     android.hardware.gnss@2.0.vendor
 
+# Gallery
+PRODUCT_PACKAGES += \
+    GalleryGo
+
 # Gatekeeper
 PRODUCT_PACKAGES += \
     android.hardware.gatekeeper@1.0.vendor
